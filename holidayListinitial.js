@@ -1,3 +1,8 @@
+/*
+ * copyright (c) - chaitanya nalla and kechit goyal
+ *
+ */
+
 select_namespace("dff.settings.d2t.holidaylist", function(namespace) {
 
 	namespace.init = function(app) {
