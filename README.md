@@ -1,3 +1,7 @@
-This project contains initial sample implementation
+The project contains two implementations 
 
-The latest implementation is not yet uploaded , it handles everything on server side.
+Initial implementation that handles everything on client side '
+
+another implementation will be added that handles everything like sorting etc on server side 
+
+
